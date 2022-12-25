@@ -8,7 +8,7 @@ def ishappy(n):
     return sum
 n=int(input())
 while(n>9):
-    n=ishappy👎
+    n=ishappy
 if n==1 or n==7:
     print("happy number")
 else:
